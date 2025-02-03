@@ -8,7 +8,7 @@
 		$ioid = $_POST['ioid'];
 		$uname = $_POST ['uname'];
 		$pass = $_POST ['pass'];
-
+ 
 if($ioid=='')  
     {  
         //javascript use for input checking  
