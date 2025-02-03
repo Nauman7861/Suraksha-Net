@@ -4,7 +4,7 @@
 	$password="";
 	$dbname="crime_management";
 
-try{
+try{ 
 $conn = mysqli_connect($servername, $username,$password,$dbname);
 //echo("successful in connection \n");
 }catch(MySQLi_Sql_Exception $ex){
