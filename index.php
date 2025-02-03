@@ -4,7 +4,7 @@
 	<title>Home Page</title>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:900" rel="stylesheet">
 	<link rel="icon" type="image/png" href="img/favicon_io/favicon.ico">
-<!-- Google Font -->
+<!-- Google Font --> 
 	<link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
 <!-- Bootstrap css -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css">
